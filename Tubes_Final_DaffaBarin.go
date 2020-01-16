@@ -676,6 +676,6 @@ func catat() {
 
 
 	//func main() {
-	//	txt("D 3454 ASU") tes coba
+	//	txt("D 3454 ASU") tes coba coba
 	
 }
